@@ -4,7 +4,7 @@
 
 Este projeto desenvolve um assistente virtual baseado no modelo **Retrieval-Augmented Generation (RAG)** para responder a perguntas sobre o livro *A Origem das Espécies*, de Charles Darwin. A aplicação utiliza técnicas avançadas de NLP, como embeddings e bancos de dados vetoriais, para localizar informações relevantes no texto e também conta com uma busca na web para complementar as respostas com resumos e opiniões externas.
 
-Além de oferecer uma versão interativa acessível via linha de comando, o projeto também disponibiliza uma interface web desenvolvida com Streamlit, permitindo que o assistente seja executado e testado de maneira intuitiva diretamente pelo navegador.
+Além de oferecer uma versão interativa acessível via linha de comando, o projeto também disponibiliza uma interface web desenvolvida com Streamlit, permitindo que o assistente seja executado e testado de maneira intuitiva diretamente pelo navegador [Darwin App](https://darwinapp.streamlit.app/).
 
 ---
 
