@@ -35,7 +35,7 @@ Além de oferecer uma versão interativa acessível via linha de comando, o proj
 
 - **Python:** Versão 3.7 ou superior.
 - **Dependências:** As bibliotecas necessárias estão listadas no arquivo `requirements.txt`.
-- **API Keys:** São exigidas chaves de acesso válidas para a OpenAI e para o Tavily, que devem ser configuradas no arquivo `.env`, você deve criar um arquivo .`env` e colocar o conteudo do arquivo `exemple_env` nele e substituir com as suas credenciais .
+- **API Keys:** São exigidas chaves de acesso válidas para a OpenAI e para o Tavily, que devem ser configuradas no arquivo `.env`, você deve criar um arquivo .`env` e colocar o conteudo do arquivo `exemplo_env` nele e substituir com as suas credenciais .
 
 ---
 
